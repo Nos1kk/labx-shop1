@@ -27,8 +27,8 @@ from db import (
 )
 
 # === КОНФИГ ===
-BOT_TOKEN = "8289409350:AAFLRXZyD-yoRU9vXW8t1HjQDJ2VVNnv9qo"
-WEBAPP_URL = "https://valiantly-disarming-vireo.cloudpub.ru"
+BOT_TOKEN = "8289409350:AAFjPqP-57cYyhdNLhz0ZIZWfsoaFQ8aXpo"
+WEBAPP_URL = "https://labx1-nos1kk.amvera.io"
 ADMIN_IDS = [5270338617]
 CARD_NUMBER = "2202 2081 6267 4528"
 
